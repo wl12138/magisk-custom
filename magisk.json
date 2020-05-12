@@ -1,23 +1,22 @@
 {
   "app": {
-    "version": "5.8.3",
-    "versionCode": "129",
-    "link": "https://github.com/topjohnwu/Magisk/releases/download/manager-v5.8.3/MagiskManager-v5.8.3.apk",
-    "note": "https://raw.githubusercontent.com/topjohnwu/Magisk/153c7fdf2030934b439c4788dbed28940315c484/app/src/full/res/raw/changelog.md"
-  },
-  "magisk": {
-    "version": "16.0",
-    "versionCode": "1600",
-    "link": "https://github.com/topjohnwu/Magisk/releases/download/v16.0/Magisk-v16.0.zip",
-    "note": "https://forum.xda-developers.com/showpost.php?p=75648916&postcount=39",
-    "md5": "6de1bc5d2f3b5fbcdebc2d6023902417"
+    "version": "7.5.1",
+    "versionCode": "267",
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/manager-v7.5.1/MagiskManager-v7.5.1.apk",
+    "note": "https://raw.githubusercontent.com/topjohnwu/Magisk/7db523071d662dcc8eb187e3cbae141c716ba045/app/src/main/res/raw/changelog.md"
   },
   "uninstaller": {
-    "link": "https://github.com/topjohnwu/Magisk/releases/download/v16.7/Magisk-uninstaller-20180719.zip"
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-uninstaller-20200110.zip"
   },
-  "snet": {
-    "versionCode": "11",
-    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/44dc7e75ab3f28b22c0cbccbb3d889f3fca3107b/snet.apk"
+  "magisk": {
+    "version": "20.3",
+    "versionCode": "20300",
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-v20.3.zip",
+    "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/4f33b2656fd9ddc27fc7f9be4e83a747084ca908/notes.md",
+    "md5": "959e46971c2eb500b91a053b2f1c1a8c"
+  },
+  "stub": {
+    "versionCode": "7",
+    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/stub/stub-release.apk"
   }
 }
-    
